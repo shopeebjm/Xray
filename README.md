@@ -199,7 +199,7 @@ https://dash.cloudflare.com/profile/api-tokens
 - API Keys ,Global API Key, Klik View, Masukan Password kamu, lalu klik View
 - nanti muncul Your API Key ,lalu tinggal di salin/copy
 
-‎# Jangan Lupa Like Share Comment And Subscribe
+# Like Share Comment And Subscribe
 ‎
 ‎<h2 align="center">
 ‎
