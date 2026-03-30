@@ -211,7 +211,7 @@ https://dash.cloudflare.com/profile/api-tokens
 ‎  
 ‎[![Tiktok Shopeebjm](https://img.shields.io/badge/TikTok-80%2B-yellow.svg?style=flat)](https://www.tiktok.com/@shopee.bjm)
 ‎
-‎[![Facebook shopee.bjm](https://img.shields.io/badge/Facebook-199%2B-yellow.svg?style=flat)](https://www.facebook.com/shopee.bjm)
+‎[![Facebook shopee.bjm](https://img.shields.io/badge/shopee-199%2B-orange.svg?style=flat)](https://shopee.co.id/infinixnote40bjm)
 ‎
 ‎[![Telegram](https://img.shields.io/badge/Telegram-77%2B-yellow.svg?style=flat)](http://t.me/confighttpcustomkiplymacho)
 ‎
