@@ -68,6 +68,7 @@ Unduh Aplikasi Termux Nya Dibawah Ini:
 👇👇
   
 [![termux](https://img.shields.io/badge/termux-71-yellow.svg?style=flat)](https://sfile.co/eZK8yBBtOiv)
+
 #
 - Wajib Punya VPS
 - Wajib Punya Akun Cloudflare
